@@ -90,3 +90,13 @@ node vaporwaveartgenerator.js "vaporwave city, neon lights, retro arcade signs, 
 ```
 
 This skill requires a Neta API token (free trial available at https://www.neta.art/open/).
+
+## Example Output
+
+```bash
+node vaporwaveartgenerator.js "synthwave vaporwave aesthetic, retro 1980s neon colors, pink and purple gradients, glowing neon grid floor, palm trees silhouette, retro computer graphics, chrome reflective surfaces, retrowave sunset, lo-fi dreamy atmosphere, glitch effects, pastel sky"
+```
+
+![Example output](https://oss.talesofai.cn/picture/78cab86b-cfce-499f-9603-aa069a2c3d6d.webp)
+
+> Prompt: *"synthwave vaporwave aesthetic, retro 1980s neon colors, pink and purple gradients, glowing neon grid floor, palm trees silhouette, retro computer graphics, chrome reflective surfaces, retrowave sunset, lo-fi dreamy atmosphere, glitch effects, pastel sky"*
